@@ -6,6 +6,7 @@ const gamesData = [
     { name: "Free Fire Tips", url: "free-fire.html" }, // Agar page nahi hai toh # rehne dena
     { name: "Asphalt 9", url: "#" },
     { name: "Marvel's Wolverine", url: "marvel.html" } 
+    { name: "StarRupture", url: "star.html"}
 ];
 
 const searchInput = document.getElementById('searchInput');
